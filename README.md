@@ -1,6 +1,5 @@
 # 🚀 Advanced Stock Portfolio Optimizer with ML-Enhanced PSO-FA Algorithm
 
-![Portfolio Optimizer](images/3.png)
 
 ## 🎯 **What We Built**
 
@@ -230,6 +229,9 @@ Open your browser: `http://127.0.0.1:8053/`
 ✅ **Achieved high prediction accuracy** with ensemble ML models
 ✅ **Created scalable, maintainable code** with proper error handling
 ✅ **Delivered a production-ready application** for real-world use
+
+
+![Portfolio Optimizer](images/3.png)
 
 ---
 
